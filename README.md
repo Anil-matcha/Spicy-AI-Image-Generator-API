@@ -1,11 +1,12 @@
 # Spicy AI Image Generator API Examples with Muapi
 
-Compare the image models listed in Muapi's spicy AI image generator catalog — Seedream 5.0 Pro and 4.5, Qwen Image 3.0 and 2.0, Wan 2.7 Image, Grok Imagine and Z-Image Turbo — across text-to-image and image-to-image (editing), all behind one API key and one request format. This guide covers Muapi endpoints only; it does not document the upstream providers' direct APIs. Moderation behavior varies by model and can change, so test your own prompts, and remember you remain responsible for complying with Muapi's [terms](https://muapi.ai/terms) and applicable law.
+A guide to the uncensored, unrestricted AI image generator models on Muapi, with lighter filtering than mainstream tools. Compare the image models listed in Muapi's spicy AI image generator catalog — Seedream 5.0 Pro and 4.5, Qwen Image 3.0 and 2.0, Wan 2.7 Image, Grok Imagine and Z-Image Turbo — across text-to-image and image-to-image (editing), all behind one API key and one request format. This guide covers Muapi endpoints only; it does not document the upstream providers' direct APIs. Moderation behavior varies by model and can change, so test your own prompts, and remember you remain responsible for complying with Muapi's [terms](https://muapi.ai/terms) and applicable law.
 
 ## Related Projects
 
 - [MuAPI](https://muapi.ai) — Unified API for image, video, and audio generation across hundreds of AI models.
 - [Spicy AI Video Generator API](https://github.com/Anil-matcha/Spicy-AI-Video-Generator-API) — the video-side companion to this guide.
+- [Uncensored AI Image Generator in ComfyUI](https://github.com/Anil-matcha/uncensored-ai-image-generator-comfyui) — run these image models inside ComfyUI with no GPU.
 - [Awesome Uncensored AI Image Models](https://github.com/Anil-matcha/awesome-uncensored-ai-image-models) — catalog of uncensored image models.
 - [Seedream 5 Pro API](https://github.com/Anil-matcha/Seedream-5-Pro-API) — Seedream 5.0 Pro examples.
 - [Qwen Image API](https://github.com/Anil-matcha/Qwen-Image-API) — Qwen image generation and editing comparisons.
