@@ -13,6 +13,7 @@ A guide to the uncensored, unrestricted AI image generator models on Muapi, with
 - [Grok Imagine Image 2 API](https://github.com/Anil-matcha/Grok-Imagine-Image-2-API) — Grok Imagine Image 2 examples.
 - [AI Image Editing API](https://github.com/Anil-matcha/AI-Image-Editing-API) — image-editing endpoints compared.
 - [AI Character Consistency API](https://github.com/Anil-matcha/AI-Character-Consistency-API) — keeping a character consistent across images.
+- [NSFW-AI-API](https://github.com/Anil-matcha/NSFW-AI-API) — NSFW detection and moderation for text and images, to screen prompts and outputs
 
 ## Overview
 
